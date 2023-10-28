@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    cursor: grab;
+}
+a:hover{
+    text-decoration: none;
+    color: blue;
+    
+}
+a{
+    color:white;
+    font-size: 25px;
+    padding-left: 50PX;
+}
+.seaanimals{
+    padding-left: 180px;
+}
+.ANIMALS{
+    padding-left: 180px;
+}
+.flowers{
+    padding-left: 180px;
+}
+.links{
+    margin: 50px;
+    padding-left: 180px;
+    font-size: 50px;
+}

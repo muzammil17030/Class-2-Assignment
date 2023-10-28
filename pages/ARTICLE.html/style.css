@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+img{
+    padding-left: 15px;
+    padding-right: 5px;
+}
+#heading{
+    text-align: center;
+    font-size: 50px;
+}
+.lion{
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 20px;
+    margin: 15px;
+}
+#last{
+    
+    padding-left: 640px;
+    color: white;
+    font-size: 25px;
+}
+#last:hover{
+    color: blue;
+}
